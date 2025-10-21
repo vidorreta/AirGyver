@@ -1,7 +1,17 @@
 # AirGyver
 
-**Ventilador de emergencia basado en componentes industriales de alta disponibilidad**  
-Proyecto desarrollado en abril de 2020 como iniciativa *open source* ante la emergencia sanitaria del COVID-19.
+**Ventilador médico de emergencia para soporte respiratorio basado en componentes industriales de alta disponibilidad**
+Proyecto desarrollado en abril de 2020 como iniciativa *open source* ante la emergencia sanitaria
+
+
+[Visita el sitio web oficial](https://proyectoairgyver.com/)
+
+<img src="imagenes/3d_img1.jpg" alt="Vista frontal de la máquina AirGyver" width="33%" />
+<img src="imagenes/about-img.png" alt="Vista posterior de la máquina AirGyver" width="33%" />
+
+
+
+del COVID-19.
 
 ---
 
@@ -65,7 +75,7 @@ Proyecto desarrollado de forma altruista por:
 - Alejandro Gazulla Sancho  
 - Alberto López Germán  
 - Gabriel Aznar Lapuente  
-- **Javier González Vidorreta**  
+- Javier González Vidorreta
 - Jorge Olite Biurrun  
 
 ---
