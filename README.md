@@ -5,8 +5,10 @@ Proyecto desarrollado en abril de 2020 como iniciativa *open source* ante la eme
 
 https://proyectoairgyver.com/
 
-<img src="imagenes/3d_img1.jpg" alt="Vista frontal de la máquina AirGyver" width="33%" />
-<img src="imagenes/about-img.png" alt="Vista posterior de la máquina AirGyver" width="33%" />
+<p align="center">
+  <img src="imagenes/3d_img1.jpg" alt="Vista frontal de la máquina AirGyver" width="33%" />
+  <img src="imagenes/about-img.png" alt="Vista posterior de la máquina AirGyver" width="33%" />
+</p>
 
 ---
 
