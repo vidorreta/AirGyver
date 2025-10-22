@@ -3,7 +3,7 @@
 **Ventilador médico de emergencia para soporte respiratorio basado en componentes industriales de alta disponibilidad**  
 Proyecto desarrollado en abril de 2020 como iniciativa *open source* ante la emergencia sanitaria del COVID-19.
 
-https://proyectoairgyver.com/
+https://proyectoairgyver.com
 
 <p align="center">
   <img src="imagenes/3d_img1.jpg" alt="Vista frontal de la máquina AirGyver" width="33%" />
@@ -50,6 +50,11 @@ Toda la documentación se encuentra en la carpeta [`/docs`](./docs):
 - **Informe GITMI** → validación experimental y resultados del ensayo clínico
 
 Los esquemas eléctricos y neumáticos están disponibles en [`/planos`](./planos).
+
+## 🧮 Programación PLC y HMI
+
+El directorio [`/programacion`](./programacion) contiene el proyecto para **TIA Portal V14**, con el código del **PLC** y la interfaz **HMI**.  
+Dentro de esta carpeta encontrarás el archivo `proyecto.rar`, que puedes abrir en TIA Portal para revisar y modificar la lógica de control y la visualización.
 
 ---
 
